@@ -1,3 +1,4 @@
+<center><img src="https://raw.githubusercontent.com/IOT-Link-Chain/.github/main/cover.png"></center>
 # Welcome to IOT Link Chain!
 
 ### What is IoT?
