@@ -25,3 +25,11 @@ With all this in mind, the IOT LINK CHAIN (ILC) project was started. We are a ne
 - ILC tokens (There cannot be tokens with the same name as the main network, since we are the main network and therefore a token).
 
 - Minimum Fees - 0.0001ILC transaction depending on network congestion, fees will always be sent to the node that generated the block along with the PoS reward.
+
+<h3 align="left">Connect community:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="limmafabianno" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabianno-limma-97870628a" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="promotergems" height="30" width="40" /></a>
+</p>
+
