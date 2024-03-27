@@ -1,12 +1,12 @@
-<center><img src="https://raw.githubusercontent.com/IOT-Link-Chain/.github/main/cover.png"></center>
-
-# Welcome to IOT Link Chain!
+[center img src="https://raw.githubusercontent.com/IOT-Link-Chain/.github/main/cover.png"> center]
+# Welcome to IOT Link Chain
 
 ### What is IoT?
 
 The Internet of Things (IoT) describes the network of physical objects incorporated with sensors, software and other technologies with the aim of connecting and exchanging data with other devices and systems over the internet. These devices range from common household objects to sophisticated industrial tools. With more than 7 billion IoT devices connected today, experts expect that number to grow to 10 billion by 2020 and 22 billion by 2025.
 
 ### What technologies made IoT possible?
+
 Although the idea of IoT has been around for a long time, a collection of recent advances in several different technologies has made it practical.
 
 Access to low-cost, low-power sensor technology. Affordable and reliable sensors are enabling IoT technology for more manufacturers.
