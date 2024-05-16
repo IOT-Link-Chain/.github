@@ -29,7 +29,7 @@ With all this in mind, the IOT LINK CHAIN (ILC) project was started. We are a ne
 <h3 align="left">Connect community:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="limmafabianno" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabianno-limma-97870628a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/102177686/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabianno-limma-97870628a" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IoTLinkChain" height="30" width="40" /></a>
   <a href="https://t.me/iotlinkchain" target="blank"><img align="center" src="https://raw.githubusercontent.com/matomo-org/matomo-icons/01c334c8c2f6c4c9a6b011d89caa6fc3d444dedc/src/socials/web.telegram.org.svg" alt="IoT lInk Chain" height="30" width="40" /></a>
 </p>
